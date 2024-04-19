@@ -1,0 +1,21 @@
+.para {
+    color: peru;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.happy {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+
+    width: 100%;
+
+    background-image: url("https://wallpapercave.com/wp/wp8226277.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}

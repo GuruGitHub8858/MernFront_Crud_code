@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "todo": "kkk",
+      "id": 4
+    },
+    {
+      "todo": "hiii",
+      "id": 6
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
